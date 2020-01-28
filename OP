@@ -114,7 +114,10 @@ Version 1.6.0.1 for Android[/size][/center][/td][td]          [/td]
 [center][size=10pt][url=https://github.com/EverGreenCoinDev/EverGreenCoin/releases/tag/v1.9.1.0][img]http://i.imgur.com/OATmpot.png[/img]
 EverGreenCoin
 Version 1.9.1.0 for Linux
-(source code) [/size][/center][/td][td]          [/td]
+(source code) [/size]
+[url=https://github.com/EverGreenCoinDev/EverGreenCoin/blob/master/build-ubuntu.sh#L12]Ubuntu one-liner[/url]
+[url=https://github.com/EverGreenCoinDev/EverGreenCoin/blob/master/build-fedora.sh#L12]Fedora one-liner[/url]
+[/center][/td][td]          [/td]
 [td]
 [center][size=10pt][url=https://drive.google.com/open?id=1QwfDQgynWMXjC3Cjm9cvRE_i71rwoLOy][img]http://i.imgur.com/BNhQc40.png[/img]
 EverGreenCoin
