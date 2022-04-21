@@ -70,7 +70,7 @@ Cryptocurrency meets our environment.[/size]
 
 [center][img]https://i.imgur.com/hlyNi9D.png[/img][/center]
 
-[center]Please see https://evergreencoin.org/2020-roadmap/[/center]
+[center]Please see https://evergreencoin.org/roadmap/[/center]
 
 [center][img]https://i.imgur.com/0od4Q6D.png[/img][/center]
 [center][size=10pt]
@@ -111,22 +111,22 @@ Letting the wallet find peers through the programmed seednodes is optimal.[/size
 EverGreenCoin
 Version 1.6.0.1 for Android[/size][/center][/td][td]          [/td]
 [td]
-[center][size=10pt][url=https://github.com/EverGreenCoinDev/EverGreenCoin/releases/tag/v1.9.1.0][img]https://i.imgur.com/OATmpot.png[/img]
+[center][size=10pt][url=https://github.com/EverGreenCoinDev/EverGreenCoin][img]https://i.imgur.com/OATmpot.png[/img]
 EverGreenCoin
-Version 1.9.1.0 for Linux
+Version 1.9.5.2 for Linux
 (source code) [/size]
 [url=https://github.com/EverGreenCoinDev/EverGreenCoin/blob/master/build-ubuntu.sh#L12]Ubuntu one-liner[/url]
 [url=https://github.com/EverGreenCoinDev/EverGreenCoin/blob/master/build-fedora.sh#L12]Fedora one-liner[/url]
 [/center][/td][td]          [/td]
 [td]
-[center][size=10pt][url=https://drive.google.com/open?id=1QwfDQgynWMXjC3Cjm9cvRE_i71rwoLOy][img]https://i.imgur.com/BNhQc40.png[/img]
+[center][size=10pt][url=https://evergreencoin.org/EverGreenCoin-Qt-MacOS-v1952.dmg][img]https://i.imgur.com/BNhQc40.png[/img]
 EverGreenCoin
-Version 1.9.0.0 for Mac OS X [/url][/size][/center][/td][td]          [/td]
+Version 1.9.5.2 for Mac OS X [/url][/size][/center][/td][td]          [/td]
 [td]
-[center][size=10pt][url=https://drive.google.com/open?id=106Ig6r8KR9Ag3-Y0yXDa1wwYMobPjQV-][img]https://i.imgur.com/zwLIUV0.png[/img]
+[center][size=10pt][url=https://drive.google.com/file/d/1UzI9fOQUQFbvStjLHjFN3eFXE9xV1aTK/view?usp=sharing][img]https://i.imgur.com/zwLIUV0.png[/img]
 EverGreenCoin
-Version 1.9.0.0.win for Windows (64 bit)[/url]
-[url=https://drive.google.com/open?id=12nR56zCQTfYvZnok8lALkgcnmCPCrUX4](32-bit version here)[/url][/size][/center][/td] 
+Version 1.9.5.2 for Windows (64 bit)[/url]
+[url=https://drive.google.com/file/d/11cW_3o6-RojJGrT33bc3KoWlaCQoVY9r/view?usp=sharing](32-bit version here)[/url][/size][/center][/td] 
 [td]          [/td]
 [/tr]
 [/table][/center]
@@ -140,12 +140,7 @@ Version 1.9.0.0.win for Windows (64 bit)[/url]
 [size=10pt][url=https://cointopay.com/]EverGreenCoin Merchant Services 
 via CoinToPay[/url][/size][/center]
 
-[center][img]http://fs5.directupload.net/images/161104/26jd827l.png[/img][/center][center][size=10pt][url=http://108.61.216.160/cryptochainer.chains/chains/EverGreenCoin_blockchain.zip]EverGreenCoin blockchain snapshot 
-via CryptoChainer[/url][/size][/center]
-
-[center][img]http://fs5.directupload.net/images/161104/qilv9kes.png[/img][/center]
-[center][size=10pt][url=https://bitcointalk.org/index.php?topic=1378653.msg15797264#msg15797264]EverGreenCoin blockchain snapshot 
-via Kiklo's Premium Blockchain Snapshot Service[/url][/size][/center]
+[center][size=10pt][url=https://evergreencoin.org/snapshot/]EverGreenCoin blockchain snapshot[/url][/size][/center]
 
 [center][img]https://i.imgur.com/QkQippt.png[/img][/center]
 [center]
@@ -154,11 +149,15 @@ via Kiklo's Premium Blockchain Snapshot Service[/url][/size][/center]
 [url=https://btcpop.co/Exchange/EGC][img]https://evergreencoin.org/wp-content/uploads/2018/08/BTCpopLogo.png[/img][/url]
 [url=https://btcpop.co/Exchange/EGC]BTC pop[/url]
 
-[url=https://coinswitch.co/][img]https://evergreencoin.org/wp-content/uploads/2018/02/EGCcoinswitch-e1519591766450.png[/img][/url]
-[url=https://coinswitch.co/]Coin Switch[/url]
-
 [url=https://ex.xbts.io/?r=xbtsx#/market/XBTSX.EGC_XBTSX.BTC][img]https://evergreencoin.org/wp-content/uploads/2019/09/logo_xbts_dex_512_1.png[/img][/url]
 [url=https://ex.xbts.io/?r=xbtsx#/market/XBTSX.EGC_XBTSX.BTC]XBTS decentralized exchange (DEX)[/url]
+
+[url=https://yieldfields.finance/farms][img]https://i.imgur.com/x7H5IHE.jpg[/img][/url]
+[url=https://yieldfields.finance/farms]YieldFields (DEX)[/url]
+
+Wrap and unwrap wEGC BSC(BEP20) here: [url=https://wrapping.services/get/egc/]https://wrapping.services/get/egc/[/url]
+Read more about wEGC here: [url=https://evergreencoin.org/wegc/]https://evergreencoin.org/wegc/[/url]
+Wrapped EverGreenCoin (wEGC) (BEP20) Binance Smart Chain (BSC) contract address: 0xb3a2f1814ed0e68c9e6b4ef4b67acb78f4e60c0a
 
 [/size]
 [center][img]https://i.imgur.com/9llhUIK.png[/img][/center]
@@ -174,18 +173,7 @@ via Kiklo's Premium Blockchain Snapshot Service[/url][/size][/center]
 [size=10pt]Block Explorer (EGC Foundation)[/size][/url][/center][/td][td]          [/td]
 [td][center][url=https://evergreencoin.org/faucet/][img]https://i.imgur.com/Dab02wP.png[/img]
 [size=10pt]Faucet[/size][/url][/center][/td][td]          [/td]
-[td][center][url=https://evergreencoin.org/ticket/][img]https://i.imgur.com/RJDSY56.png[/img]
-[size=10pt]Support ticket system[/size][/url][/center][/td][td]          [/td][/tr][/table]
-
-[table][tr][td]          [/td]
-[td][center][url=https://evergreencoin.org/directory/][img]https://i.imgur.com/CKh7M0h.png[/img]
-[size=10pt]Green Directory[/size][/url][/center][/td][td]          [/td]
-[td][center][url=https://evergreencoin.org/marketplace/][img]https://i.imgur.com/Vutd9Rm.png[/img]
-[size=10pt]Marketplace[/size][/url][/center][/td][td]          [/td]
-[td][center][url=https://evergreencoin.org/product-category/crowdfunding/][img]https://i.imgur.com/JHA0Y0v.png[/img]
-[size=10pt]Crowdfunding[/size][/url][/center][/td][td]          [/td]
-[td][center][url=https://evergreencoin.org/forums/][img]https://i.imgur.com/4C5iGxO.png[/img]
-[size=10pt]Forums[/size][/url][/center][/td][td]          [/td][/tr][/table][/center]
+[td]      [/td][td]          [/td][/tr][/table][/center]
 
 [center][img]https://i.imgur.com/YRXtsWR.png[/img][/center]
 [center][table][tr][td]          [/td][td][center][url=https://www.facebook.com/groups/evergreencoincurrency/][img width=100]http://fs5.directupload.net/images/161104/ckll9fci.png[/img][/url]
